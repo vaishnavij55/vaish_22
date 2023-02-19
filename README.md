@@ -1,1 +1,1 @@
-phptography
+photography
